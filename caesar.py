@@ -1,4 +1,5 @@
 def alphabet_position(character):
+<<<<<<< HEAD
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
     lower = character.lower()
     return alphabet.index(lower)
@@ -30,3 +31,4 @@ def rotate_string(text, rot):
         else:
             rotated = rotated + char
     return rotated
+=======
